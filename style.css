@@ -1,0 +1,36 @@
+.heading{
+    font-size:20;
+    width:100%;
+    border-radius: 75px;
+    border:5px red;
+    box-shadow: 10px 10px 10px black;
+    color:green;
+}
+
+.note{
+    font-size: 20px;
+    color:red;
+}
+
+.crt{
+    position: fixed;
+    color: black;
+    bottom:0;
+    width: 100%;
+    background-color:red;
+    line-height:3 ;
+    text-align: center;
+}
+
+
+canvas{
+    border:5px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px black;
+}
+
+
+.result_para_tag{
+    box-shadow :5px 5px 5px grey;
+    font-size:20px;
+}
